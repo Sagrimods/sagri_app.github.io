@@ -1,1 +1,59 @@
-test
+[•• WARNING ••]
+
+IF YOU DO NOT WANT TO SEE THIS UPDATE NOTIFICATION, YOU CAN DISABLE UPDATES FROM "AeroInsta Settings > Service > Disable updates".
+
+
+××××××××
+AeroInsta V17.0.1 Update Details:
+
+
+• Base updated to 204.0.0.30.119
+
+• Added new fonts to "Typewritter font" (AeroInsta Settings 》 Stories 》 Typewritter font).
+
+Names of newly added fonts:
+- Abduction Small
+- Annabelle
+- Arial RB
+- Bimini Bold
+- Century Gothic
+- Champagne And Limousines Bold
+- Champagne Limousines
+- Euroference Bold
+- Hearts
+- Laneposh
+- Laneposh Bold
+- Mungballs
+- Neuropol Bold
+- Neutrademisc
+- Neutrademisc Bold
+- Opificio Bold
+- Patron
+- ScrapItUp
+- ScrapoHolic
+- Sharpee
+- Unlearned
+
+• New comment translate/copy system (Thanks to Omvir S. - Instax).
+
+• Improved - more stable ad blocker.
+
+• Other minor fixes and optimizations.
+
+
+
+
+
+××××××××
+[•• COLORS ••]
+
+- Default
+- Gold
+- Red
+- Extra Dark
+- Blue
+- Coral Pink
+- Green
+- Light Tone
+- Light Purple
+- Light Pink
