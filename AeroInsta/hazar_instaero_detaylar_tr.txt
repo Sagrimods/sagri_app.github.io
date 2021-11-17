@@ -1,1 +1,59 @@
-test
+[•• UYARI••]
+
+BU GÜNCELLEME BİLDİRİMİNİ GÖRMEK İSTEMİYORSAN, GÜNCELLEME DENETLEMESİNİ "AeroInsta Ayarları > Servis > Güncellemeleri devredışı bırak" SEÇENEĞİNDEN DEVREDIŞI BIRAKABİLİRSİN.
+
+
+××××××××
+AeroInsta V17.0.1 Güncelleme Detayları:
+
+
+• Temel Instagram sürümü, 204.0.0.30.119 sürümüne güncellendi.
+
+• "Daktilo yazı tipi" seçeneğine yeni yazı tipleri eklendi (AeroInsta Ayarları 》 Hikayeker 》 Daktilo yazı tipi).
+
+Yeni eklenen yazı tiplerinin adları:
+- Abduction Small
+- Annabelle
+- Arial RB
+- Bimini Bold
+- Century Gothic
+- Champagne And Limousines Bold
+- Champagne Limousines
+- Euroference Bold
+- Hearts
+- Laneposh
+- Laneposh Bold
+- Mungballs
+- Neuropol Bold
+- Neutrademisc
+- Neutrademisc Bold
+- Opificio Bold
+- Patron
+- ScrapItUp
+- ScrapoHolic
+- Sharpee
+- Unlearned
+
+• Yeni yorum tercüme/kopyalama sistemi (Omvir S. - Instax'a teşekkürler).
+
+• Geliştirildi - daha kararlı reklam engelleyici.
+
+• Diğer küçük düzeltmeler ve optimizasyonlar.
+
+
+
+
+
+××××××××
+[•• RENKLER ••]
+
+- Varsayılan
+- Altın
+- Kırmızı
+- Ekstra Karanlık
+- Mavi
+- Mercan Pembesi
+- Yeşil
+- Açık Ton
+- Parlak Mor
+- Parlak Pembe
