@@ -2,5 +2,5 @@
 	"version": "14.2",
 	"changelog": "— Added payment link for verification;\n— Fixed application crash due to notifications;\n— Fixed crash on entering Direct;\n— Fixed when switching to the first photo in profile;\n— Fixed pin icon in comments.",
 	"changelog-ru": "— Исправлены кнопки действий с комментариями;\n— Исправлено падение приложения из-за уведомлений;\n— Исправлена ошибка при входе в Direct;\n— Исправлено переключение на первую фотографию в профиле;\n— Исправлена иконка закрепа в комментариях.",
-	"link": "https://sagri12345.github.io/project/Instander_mod_v14.2.apk"
+	"link": "https://sagri12345.github.io/Instander-14.3/Instander_by_sagrimods_v14.3.apk"
 }
