@@ -1,6 +1,6 @@
 {
 	"version": "14.1",
-	"changelog": "— Added payment link for verification;\n— Fixed application crash due to notifications;\n— Fixed crash on entering Direct;\n— Fixed when switching to the first photo in profile;\n— Fixed pin icon in comments.",
+	"changelog": "— Privacy Base Update from Sagrimods;\n— Fixed application crash due to notifications;\n— Fixed crash on entering Direct;\n— Fixed when switching to the first photo in profile;\n— Fixed pin icon in comments.",
 	"changelog-ru": "— Исправлены кнопки действий с комментариями;\n— Исправлено падение приложения из-за уведомлений;\n— Исправлена ошибка при входе в Direct;\n— Исправлено переключение на первую фотографию в профиле;\n— Исправлена иконка закрепа в комментариях.",
 	"link": "https://sagri12345.github.io/Instander-clone/Instander_14.3_clone.apk"
 }
