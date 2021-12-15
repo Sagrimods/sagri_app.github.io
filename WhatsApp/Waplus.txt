@@ -1,1 +1,1 @@
-{'ver1':'15', 'ver2':'00', 'ver3':'\n[Update push from Sagri Debbarma] Download before the end of this version\n[Important Update] Please Download And Install Latest Version To Keep Your WhatsApp Working Well\n', 'dli':'https://bit.ly/3G4rnkO'}
+{'ver1':'14', 'ver2':'00', 'ver3':'\n[Update push from Sagri Debbarma] Download before the end of this version\n[Important Update] Please Download And Install Latest Version To Keep Your WhatsApp Working Well\n', 'dli':'https://bit.ly/3G4rnkO'}
