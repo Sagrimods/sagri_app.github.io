@@ -1,1 +1,1 @@
-{'ver1':'15', 'ver2':'00', 'ver3':'\n[Important Update] Please Download And Install Latest Version To Keep Your WhatsApp Working Well\n', 'dli':'https://uplinks.co/premium/dl-og-wa-pro'}
+{'ver1':'12', 'ver2':'00', 'ver3':'\n[Important Update] Please Download And Install Latest Version To Keep Your WhatsApp Working Well\n', 'dli':'https://uplinks.co/premium/dl-og-wa-pro'}
