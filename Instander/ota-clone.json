@@ -1,6 +1,11 @@
 {
 	"version": "14.3",
-	"changelog": "— Privacy Base Update from Sagrimods;\n— Fixed application crash due to notifications;\n— Fixed crash on entering Direct;\n— Fixed when switching to the first photo in profile;\n— Fixed pin icon in comments.",
-	"changelog-ru": "— Исправлены кнопки действий с комментариями;\n— Исправлено падение приложения из-за уведомлений;\n— Исправлена ошибка при входе в Direct;\n— Исправлено переключение на первую фотографию в профиле;\n— Исправлена иконка закрепа в комментариях.",
-	"link": "https://sagri12345.github.io/Instander-clone/Instander_14.3_clone.apk"
+	"changelog": "— Rebase to Instagram 215.0.0.27.359;\n-SᴀɢʀɪMᴏᴅs Oғғɪᴄɪᴀʟ;\n— Added Link sticker;\n— Added Add yours sticker;\n— Video scrubber is forced on;\n— Remove Video scrubber option;\n— Temporarily not added Mark as read in direct;\n— Temporarily not added download IGTV;\n— Attention ads in Old posts is present.",
+	"changelog-ru": "— Переезд на Instagram 215.0.0.27.359;\n— Добавлен стикер Ссылка;\n— Добавлен стикер Добавить ваш;\n— Принудительно включена перемотка видео;\n— Удалите опцию Перемотка видео;\n— Временно не добавлена опция Отметить как прочитанное в директ;\n— Временно не добавлена загрузка IGTV;\n— Внимание реклама в Старых постах присутствует.",
+	"link": "https://sagri12345.github.io/Instander-15.0/Instander_v15.0_clone_By_SᴀɢʀɪMᴏᴅs.apk"
 }
+
+
+
+
+
