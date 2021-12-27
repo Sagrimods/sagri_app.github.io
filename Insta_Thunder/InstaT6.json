@@ -1,10 +1,12 @@
 { 
    "force_update":false,
-   "version":2.0,
+   "version":6.5,
    "changelog":"
    \n[Base] 216.1.0.21.137!
-   \n[mess] Instamods by sagrimods!
+   \n[mess] Instagram by sagrimods!
    \n[Dev] SagriMods!
-   \n[Added] Walk chat!
-   \n[Added] Msg Translation!"
+   \n[Fix] Auto close!
+   \n[Fix] Message not sent!
+   \n[Fix] Internet issues!
+   \n[Fix] White screenshot!"
 }
