@@ -4,7 +4,7 @@ IF YOU DO NOT WANT TO SEE THIS UPDATE NOTIFICATION, YOU CAN DISABLE UPDATES FROM
 
 
 ××××××××
-AeroInsta V17.0.1 Update Details:
+AeroInsta V18.0.2 Update Details:
 
 
 • Base updated to 204.0.0.30.119
