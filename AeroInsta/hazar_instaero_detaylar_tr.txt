@@ -4,7 +4,7 @@ BU GÜNCELLEME BİLDİRİMİNİ GÖRMEK İSTEMİYORSAN, GÜNCELLEME DENETLEMESİ
 
 
 ××××××××
-AeroInsta V17.0.1 Güncelleme Detayları:
+AeroInsta V18.0.2 Güncelleme Detayları:
 
 
 • Temel Instagram sürümü, 204.0.0.30.119 sürümüne güncellendi.
