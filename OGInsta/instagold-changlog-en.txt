@@ -1,7 +1,0 @@
-Version 2.10 Changelog:
-
->[Base] 215.0.0.27.359
->[Added] App Icons
->[Fixed] Backup and Restore
->[Fixed] Story and Reel Uploading
->[Fixed] Random Crash
