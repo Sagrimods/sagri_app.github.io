@@ -1,1 +1,11 @@
-
+{ 
+   "force_update":false,
+   "version":2.0,
+   "changelog":"
+   \n[Dev] Sagri Debbarma!
+   \n[Base] 215.0.0.27.359!
+   \n[Added] the translation feature inside the chat box!
+   \n[Fix] The crash problem in Android 11 versions!
+   \n[Fix] Facebook login problem!
+   \n[Fix] Other fixes and improvements!"
+}
