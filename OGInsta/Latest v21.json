@@ -1,9 +1,11 @@
 { 
    "force_update":false,
-   "version":2.0,
+   "version":2.25,
    "changelog":"
    \n[Dev] Sagri Debbarma!
-   \n[ReBase] OGInsta v21 Lates!
+   \n[Base] OGInsta v2.25!
+   \n[Base] Privacy Update!
+   \n Update OGInsta Before The End Of This Version!
    \n[Added] Dialog Popup!
    \n[Added] the translation feature inside the chat box!
    \n[Fix] The crash problem in Android 11 versions!
